@@ -1,0 +1,30 @@
+/* Typography and layout */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #fdf6e0;
+  color: black;
+  text-align: center;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 2rem;
+}
+
+h2 {
+  color: slategray;
+  font-size: 1.5rem;
+  margin: 1rem 0 0.5rem;
+}
+
+/* Image container spacing */
+div {
+  margin-bottom: 2.5rem;
+}
+
+/* Image styling */
+img {
+  width: 280px;
+  border-radius: 12px;
+  cursor: pointer;
+}
